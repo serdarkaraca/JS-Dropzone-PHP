@@ -1,4 +1,5 @@
 # JS-Dropzone PHP
+# JS Dropzone eklentisi ile çoklu / tekli dosya yükleme
 
 ## JS Dropzone eklentisini PHP ile kullanım örneği Türkçe olarak anlatılmıştır.
 
