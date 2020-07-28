@@ -1,2 +1,2 @@
-# JS-Dropzone
+# JS-Dropzone PHP
 JS Dropzone Example
